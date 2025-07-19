@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3FFFA3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeetu+Pal;Full+Stack+Developer+%7C+MERN+%7C+Next.js+%7C+Redis+%7C+Docker;Building+Fast%2C+Scalable+and+Beautiful+Apps;Let%27s+Connect+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3FFFA3&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeetu+Pal;Full+Stack+Developer+%7C+MERN+%7C+Next.js+%7C+Redis+%7C+Docker;Building+Fast%2C+Scalable+and+Beautiful+Apps;Let's+Connect+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,10 +11,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on scalable full-stack projects
-- 🧠 Exploring: **WebRTC**, **Redis PubSub**, **Turborepo**, **CI/CD Pipelines**
-- 💻 Obsessed with: **Performance**, **Clean Code**, **UX First Design**
-- 🧩 Architecting systems using **Microservices**, **Queues**, and **Sockets**
+- 🔭 Currently working on scalable full-stack projects  
+- 🧠 Exploring: **WebRTC**, **Redis PubSub**, **Turborepo**, **CI/CD Pipelines**  
+- 💻 Obsessed with: **Performance**, **Clean Code**, **UX First Design**  
+- 🧩 Architecting systems using **Microservices**, **Queues**, and **Sockets**  
 - 📫 Reach me at: `jeetupal.pal31@gmail.com`
 
 ---
@@ -39,6 +39,15 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>
 </p>
+
+---
+
+## ✍️ Latest Blog Posts on Hashnode
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+_Read more on [my Hashnode blog](https://jeetupal.hashnode.dev)_
 
 ---
 
