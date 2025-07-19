@@ -47,7 +47,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-_Read more on [my Hashnode blog](https://jeetupal.hashnode.dev)_
+_Read more on [my Hashnode blog](https://https://hashnode.com/@jeetupal31)_
 
 ---
 
